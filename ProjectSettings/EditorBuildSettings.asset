@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 1297cb564b3d78d4ba144ee6bd3331b6
+  - enabled: 1
+    path: Assets/Scenes/Jill.unity
+    guid: a072197d1a3c8524ca89e21d04a4a30a
+  - enabled: 1
+    path: Assets/Scenes/M4A1.unity
+    guid: 2fc001deceee96544bee08d51bc33080
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Successful.unity
+    guid: 5dec517b6f9f68d48ac8cd2dbec5fc1c
+  - enabled: 1
+    path: Assets/Scenes/M4A1 new.unity
+    guid: eb57a1d232d1f0041aa29d9db039f3fd
+  - enabled: 1
+    path: Assets/Scenes/M16A1.unity
+    guid: adc80775a3d9ae64eb54e18facc34ef5
+  - enabled: 1
+    path: Assets/Scenes/Main 2.unity
+    guid: d53d0ffe7ef99b449be2aa373375226e
+  - enabled: 1
+    path: Assets/Scenes/Successful 2.unity
+    guid: b4227e889d7ed4f49b7e3a445120d866
+  - enabled: 1
+    path: Assets/Scenes/M16A1 new.unity
+    guid: 8fe47f766197c91448047fba1ecfcae1
+  - enabled: 1
+    path: Assets/Scenes/HK416.unity
+    guid: cf017e0b4880f964c9b9f7688bd994bd
+  - enabled: 1
+    path: Assets/Scenes/Main 3.unity
+    guid: 038c9159cef6a6d4d9b3148d5735e0a3
+  - enabled: 1
+    path: Assets/Scenes/Successful 3.unity
+    guid: e8bcffc84bbef8c498e9575156ba1bc1
+  - enabled: 1
+    path: Assets/Scenes/HK416 new.unity
+    guid: 660f1c0a43721e64cabe6a53cb372992
+  - enabled: 1
+    path: Assets/Scenes/Main 4.unity
+    guid: d0f60503dd2d220468a156c0ae1506f2
+  - enabled: 1
+    path: Assets/Scenes/Successful 4.unity
+    guid: 2c88c149ce107484b83a7b8e3f86540c
+  - enabled: 1
+    path: Assets/Scenes/UMP45.unity
+    guid: 87ca9d7f7fe0a0948b263b2e20248e80
+  - enabled: 1
+    path: Assets/Scenes/Jill End.unity
+    guid: b99314858a7841242b0ec60a3c6e43d1
+  m_configObjects: {}
