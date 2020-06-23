@@ -12,8 +12,8 @@ As a big fan of dollsfrontline, I designed this game after learning a little bit
 
 ------
 ### Development Environment
-+ Script Language: **C#**
-+ Software: **Unity 2018.4.9f1**
++ Script Language : **C#**
++ Software : **Unity 2018.4.9f1**
 ------
 ### Tutorial
 1. Download ZIP file
