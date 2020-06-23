@@ -3,7 +3,7 @@
 As a big fan of dollsfrontline, I designed this game after learning a little bit Unity. Although trivial bugs still exist, this game is a good example for you to study about Unity UI.
 
 ------
-### Game Demo ( Part )
+### Game Demo
 ![Start](https://kennardwang.github.io/ImageSource/Project/ValhallaStart.png)
 
 ![Introduction](https://kennardwang.github.io/ImageSource/Project/ValhallaIntroduction.png)
@@ -13,7 +13,7 @@ As a big fan of dollsfrontline, I designed this game after learning a little bit
 ------
 ### Development Environment
 + Script Language: **C#**
-+ Software: **Unity v2019.2.6f1**
++ Software: **Unity 2018.4.9f1**
 ------
 ### Tutorial
 1. Download ZIP file
