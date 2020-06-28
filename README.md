@@ -11,6 +11,9 @@ As a big fan of dollsfrontline, I designed this game after learning a little bit
 ![Valhalla](https://kennardwang.github.io/ImageSource/Project/Valhalla.png)
 
 ------
+### Download
++ [Release](https://github.com/KennardWang/DollsFrontline-ValhallaBartender/releases/tag/1.0)
+------
 ### Development Environment
 + Engine : **Unity 2018.4.9f1 LTS**
 + Script Language : **C#**
