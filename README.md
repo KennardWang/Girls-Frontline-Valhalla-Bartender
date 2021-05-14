@@ -1,5 +1,5 @@
 # Girls-Frontline-Valhalla-Bartender
-### Sketch
+### Brief Introduction
 As a big fan of dollsfrontline, I designed this game after learning a little bit Unity. Although trivial bugs still exist, this game is a good example for you to study about Unity UI.
 
 ------
@@ -19,23 +19,22 @@ As a big fan of dollsfrontline, I designed this game after learning a little bit
 + Script Language : **C#**
 + IDE : **Visual Studio 2017 ( Community )**
 ------
-### Tutorial
-1. Download ZIP file
-2. Open project with **Unity Engine** or **Unity Hub**
-3. Select **Assets**-**Scenes**, and then **Start** to enter debug mode
+### How to compile
+1. Git clone the source code and enter file **Assets**
+2. Create a new project with **Unity Engine**
+3. Import all folders and files under **Assets** into project Assets
+4. Don't forget to add **Unity Scenes** by given order before building
 
 ![Tutorial](https://kennardwang.github.io/ImageSource/Project/ValhallaTutorial.png)
 
-4. You can also export the project as a game  
+5. You can also export the project as a game  
 
 ![Export](https://kennardwang.github.io/ImageSource/Project/ValhallaTutorial2.png)
 ![GameEXE](https://kennardwang.github.io/ImageSource/Project/ValhallaTutorial3.png)
 
-5. Let's start to play!
-
 ------
 ### License
-+ [BSD License](https://github.com/KennardWang/DollsFrontline-ValhallaBartender/blob/master/LICENSE)
++ [MIT License](https://github.com/KennardWang/Girls-Frontline-Valhalla-Bartender/blob/master/LICENSE)
 ------
 ### Author
 + Kennard Wang ( 2019.7.15 )
