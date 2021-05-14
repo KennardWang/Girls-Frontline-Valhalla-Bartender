@@ -1,4 +1,4 @@
-# DollsFrontline-ValhallaBartender
+# Girls-Frontline-Valhalla-Bartender
 ### Sketch
 As a big fan of dollsfrontline, I designed this game after learning a little bit Unity. Although trivial bugs still exist, this game is a good example for you to study about Unity UI.
 
