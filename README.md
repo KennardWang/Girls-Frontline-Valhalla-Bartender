@@ -1,42 +1,61 @@
 # Girls-Frontline-Valhalla-Bartender
-### Brief Introduction
-As a big fan of dollsfrontline, I designed this game after learning a little bit Unity. Although trivial bugs still exist, this game is a good example for you to study about Unity UI.
+
+> Kennard was obsessed with Nijigen mobile game **Girls Frontline**. Recently this game 
+> collaborated with **Cyberpunk Valhalla**, creating a novel style of playing. Kennard
+> wanted to reproduce this 2D bartending game by **Unity**, with innovative plots.
 
 ------
+
 ### Game Demo
-![Start](https://kennardwang.github.io/ImageSource/Project/ValhallaStart.png)
+![Start](https://kennardwang.github.io/ImageSource/Girls-Frontline-Valhalla-Bartender/ValhallaStart.png)
 
-![Introduction](https://kennardwang.github.io/ImageSource/Project/ValhallaIntroduction.png)
+![Introduction](https://kennardwang.github.io/ImageSource/Girls-Frontline-Valhalla-Bartender/ValhallaIntroduction.png)
 
-![Valhalla](https://kennardwang.github.io/ImageSource/Project/Valhalla.png)
+![Valhalla](https://kennardwang.github.io/ImageSource/Girls-Frontline-Valhalla-Bartender/Valhalla.png)
 
 ------
-### Download
-+ [Release](https://github.com/KennardWang/DollsFrontline-ValhallaBartender/releases/tag/1.0)
-------
+
 ### Development Environment
-+ Engine : **Unity 2018.4.9f1 LTS**
-+ Script Language : **C#**
-+ IDE : **Visual Studio 2017 ( Community )**
-------
-### How to compile
-1. Git clone the source code and enter file **Assets**
-2. Create a new project with **Unity Engine**
-3. Import all folders and files under **Assets** into project Assets
-4. Don't forget to add **Unity Scenes** by given order before building
 
-![Tutorial](https://kennardwang.github.io/ImageSource/Project/ValhallaTutorial.png)
-
-5. You can also export the project as a game  
-
-![Export](https://kennardwang.github.io/ImageSource/Project/ValhallaTutorial2.png)
-![GameEXE](https://kennardwang.github.io/ImageSource/Project/ValhallaTutorial3.png)
+| Description | Specification |
+|:---:|:---:|
+| System | Windows 10 |
+| Language | C# |
+| IDE | Unity 2018.4.9f1 LTS |
 
 ------
+
+### How To Play
++ Build ***.exe*** file by Unity engine
+  1. `git clone https://github.com/KennardWang/Girls-Frontline-Valhalla-Bartender.git`.
+  2. Create a new project with Unity.
+  3. Import all folders and files under **Assets** into Assets folder of the project.
+  4. Do not forget to add all **Unity Scenes** by given order ( 0~17 ) before building.
+    + Select the scene one by one.
+    + Click **File** -> **Build Settings** -> **Add Open Scenes**.
+    + Check the scene index number is corresponding to the given number.
+
+  ![Tutorial](https://kennardwang.github.io/ImageSource/Girls-Frontline-Valhalla-Bartender/ValhallaTutorial0.png)
+
+  5. Test the game from **Start** scene.
+
+  ![Tutorial](https://kennardwang.github.io/ImageSource/Girls-Frontline-Valhalla-Bartender/ValhallaTutorial1.png)
+
+  6. Finally, export the project as a ***.exe*** file.  
+
+  ![Tutorial](https://kennardwang.github.io/ImageSource/Girls-Frontline-Valhalla-Bartender/ValhallaTutorial2.png)
+  ![Tutorial](https://kennardwang.github.io/ImageSource/Girls-Frontline-Valhalla-Bartender/ValhallaTutorial3.png)
+  
++ Or you can download the latest release ( with ***.exe*** file )
+  
+  https://github.com/KennardWang/Girls-Frontline-Valhalla-Bartender/releases
+
+------
+
 ### License
 + [MIT License](https://github.com/KennardWang/Girls-Frontline-Valhalla-Bartender/blob/master/LICENSE)
-------
-### Author
-+ Kennard Wang ( 2019.7.15 )
+
 ------
 
+### Author
++ Kennard Wang ( 2019.7.15 )
