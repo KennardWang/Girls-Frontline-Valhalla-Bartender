@@ -59,7 +59,7 @@
 ------
 
 ### License
-+ [MIT License](https://github.com/KennardWang/Girls-Frontline-Valhalla-Bartender/blob/master/LICENSE)
++ [MIT License](https://github.com/KennardWang/Girls-Frontline-Valhalla-Bartender/blob/main/LICENSE)
 
 ------
 
