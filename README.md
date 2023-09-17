@@ -9,7 +9,7 @@
   [![forks](https://img.shields.io/github/forks/KennardWang/Girls-Frontline-Valhalla-Bartender?style=for-the-badge&color=white)](https://github.com/KennardWang/Girls-Frontline-Valhalla-Bartender/forks)
   &nbsp;
   [![contributors](https://img.shields.io/github/contributors/KennardWang/funcom_reproduction?style=for-the-badge&color=8BC0D0)](https://github.com/KennardWang/Girls-Frontline-Valhalla-Bartender/graphs/contributors)
-  &nbsp;
+  
   <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
   &nbsp;
   <img src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white&style=for-the-badge" />
