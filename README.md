@@ -1,9 +1,15 @@
 # Girls-Frontline-Valhalla-Bartender
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/KennardWang/Girls-Frontline-Valhalla-Bartender" />
-  <img src="https://img.shields.io/github/license/KennardWang/Girls-Frontline-Valhalla-Bartender" />
-  <img src="https://img.shields.io/badge/maintenance-No-red" />
+  <img src="https://img.shields.io/github/stars/KennardWang/Girls-Frontline-Valhalla-Bartender?style=for-the-badge&color=FDEE21" />
+  &nbsp;
+  <img src="https://img.shields.io/github/forks/KennardWang/Girls-Frontline-Valhalla-Bartender?style=for-the-badge&color=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white&style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Unity-100000.svg?logo=unity&logoColor=white&style=for-the-badge" />
 </div>
 
 <br>
@@ -18,7 +24,7 @@
 
 <br>
 
-The project is a custom 2D game with an original storyline, which is a practice project for the author after self-learning Unity and C#. Its inspiration comes from the crossover game ***Girls' Frontline*** and ***Cyberpunk Bartender Action***.
+The project is a custom 2D game with an original storyline, which is a practice project for the author after self-learning Unity and C#. Its inspiration comes from the collaboration game ***Girls' Frontline*** x ***Cyberpunk Bartender Action***.
 
 
 
@@ -89,13 +95,13 @@ The project is a custom 2D game with an original storyline, which is a practice 
 
 ## Releases
 
-[The latest version](https://github.com/KennardWang/Girls-Frontline-Valhalla-Bartender/releases/tag/v1.0).
+[![badge](https://img.shields.io/badge/release-v1.0-FF7800)](https://github.com/KennardWang/Girls-Frontline-Valhalla-Bartender/releases/tag/v1.0)
 
 
 
 ## Maintainers
 
-[@KennardWang](https://github.com/KennardWang).
+![badge](https://img.shields.io/badge/maintenance-NO-EF2D5E) [@KennardWang](https://github.com/KennardWang)
 
 
 
@@ -107,4 +113,4 @@ Feel free to [open an issue](https://github.com/KennardWang/Girls-Frontline-Valh
 
 ## License
 
-[MIT](LICENSE) © Kennard Wang. ( 2019.7.15 )
+[![license](https://img.shields.io/github/license/KennardWang/Girls-Frontline-Valhalla-Bartender)](LICENSE) © Kennard Wang ( 2019.7.15 )
