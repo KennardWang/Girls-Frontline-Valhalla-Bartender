@@ -57,7 +57,7 @@ The project is a custom 2D game with an original storyline, which is a practice 
 
 ## Install
 
-+ Install the [Unity](https://unity.com/download).
++ Install the [Unity](https://unity.com/releases/editor/archive).
 + Clone the repos:
 
   ```
@@ -68,10 +68,10 @@ The project is a custom 2D game with an original storyline, which is a practice 
 
 ## Usage
 
-1. Create a new project with Unity.
-2. Import all folders and files under **Assets** into Assets folder of the project.
+1. Create a new project within Unity.
+2. Import all folders and files into **Assets** folder of the project. (you can remove default **Scenes** folder if has)
 3. Do not forget to add all **Unity Scenes** by given order ( 0~17 ) before building.
-    1. Select the scene one by one.
+    1. Select scenes one by one.
     2. Click **File** -> **Build Settings** -> **Add Open Scenes**.
     3. Check the scene index number is corresponding to the given number.
 
@@ -80,7 +80,7 @@ The project is a custom 2D game with an original storyline, which is a practice 
   <img src="https://kennardwang.github.io/ImageSource/Girls-Frontline-Valhalla-Bartender/ValhallaTutorial0.png" width="85%" />
 </div>
 
-4. Test the game from **Start** scene.
+4. Test the game from the **Start** scene.
 
 <br>
 <div align=center>
