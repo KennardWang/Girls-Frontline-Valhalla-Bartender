@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![description](https://img.shields.io/badge/project-Individual-1F1F1F?style=for-the-badge)](https://github.com/KennardWang/Girls-Frontline-Valhalla-Bartender)
+  [![description](https://img.shields.io/badge/project-Individual-FFB7C5?style=for-the-badge)](https://github.com/KennardWang/Girls-Frontline-Valhalla-Bartender)
   &nbsp;
   [![stars](https://img.shields.io/github/stars/KennardWang/Girls-Frontline-Valhalla-Bartender?style=for-the-badge&color=FDEE21)](https://github.com/KennardWang/Girls-Frontline-Valhalla-Bartender/stargazers)
   &nbsp;
