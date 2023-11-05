@@ -12,9 +12,13 @@
   
   <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
   &nbsp;
+  <img src="https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=fff&style=for-the-badge" />
+  &nbsp;
   <img src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white&style=for-the-badge" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Unity-100000.svg?logo=unity&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Unity-858580?style=for-the-badge&logo=unity&logoColor=white" />
 </div>
 
 <br>
@@ -22,9 +26,9 @@
 <div align=center>
   <img src="https://kennardwang.github.io/ImageSource/Girls-Frontline-Valhalla-Bartender/ValhallaStart.png" width="32%" />
   &nbsp;
-  <img src="https://kennardwang.github.io/ImageSource/Girls-Frontline-Valhalla-Bartender/ValhallaIntroduction.png" width="32%" />
+  <img src="https://kennardwang.github.io/ImageSource/Girls-Frontline-Valhalla-Bartender/Valhalla1.png" width="32%" />
   &nbsp;
-  <img src="https://kennardwang.github.io/ImageSource/Girls-Frontline-Valhalla-Bartender/Valhalla.png" width="32%" />
+  <img src="https://kennardwang.github.io/ImageSource/Girls-Frontline-Valhalla-Bartender/Valhalla2.png" width="32%" />
 </div>
 
 <br>
@@ -51,7 +55,7 @@ The project is a custom 2D game with an original storyline, which is a practice 
 |:---:|:---:|
 | System | Windows 10 x64 |
 | Language | C# |
-| IDE | Unity 2018.4.9f1 LTS |
+| IDE | Visual Studio 2019 (C# script), Unity 2022.3.12f1 LTS (Engine) |
 
 
 
@@ -69,7 +73,7 @@ The project is a custom 2D game with an original storyline, which is a practice 
 ## Usage
 
 1. Create a new project within Unity.
-2. Import all folders and files into **Assets** folder of the project. (you can remove default **Scenes** folder if has)
+2. Replace the original **Assets** folder with our **Assets** folder.
 3. Do not forget to add all **Unity Scenes** by given order ( 0~17 ) before building.
     1. Select scenes one by one.
     2. Click **File** -> **Build Settings** -> **Add Open Scenes**.
@@ -80,14 +84,14 @@ The project is a custom 2D game with an original storyline, which is a practice 
   <img src="https://kennardwang.github.io/ImageSource/Girls-Frontline-Valhalla-Bartender/ValhallaTutorial0.png" width="85%" />
 </div>
 
-4. Test the game from the **Start** scene.
+4. Test the game from the first scene **Scene0-Start**.
 
 <br>
 <div align=center>
   <img src="https://kennardwang.github.io/ImageSource/Girls-Frontline-Valhalla-Bartender/ValhallaTutorial1.png" width="85%" />
 </div>
 
-5. Finally, export the project as a ***.exe*** file.  
+5. Finally, export the project as an executable file.  
 
 <br>
 <div align=center>
@@ -100,7 +104,7 @@ The project is a custom 2D game with an original storyline, which is a practice 
 
 ## Releases
 
-[![badge](https://img.shields.io/badge/release-v1.0-FF7800)](https://github.com/KennardWang/Girls-Frontline-Valhalla-Bartender/releases/tag/v1.0)
+[![badge](https://img.shields.io/badge/release-v1.1-FF5500)](https://github.com/KennardWang/Girls-Frontline-Valhalla-Bartender/releases/tag/v1.1) [![badge](https://img.shields.io/badge/release-v1.0-FF3300)](https://github.com/KennardWang/Girls-Frontline-Valhalla-Bartender/releases/tag/v1.0)
 
 
 
