@@ -24,11 +24,11 @@
 <br>
 
 <div align=center>
-  <img src="https://github.com/KennardWang/ImageSource/blob/master/Girls-Frontline-Valhalla-Bartender/ValhallaStart.png" width="32%" />
+  <img src="https://kennardwang.github.io/ImageSource/Girls-Frontline-Valhalla-Bartender/ValhallaStart.png" width="32%" />
   &nbsp;
-  <img src="https://github.com/KennardWang/ImageSource/blob/master/Girls-Frontline-Valhalla-Bartender/Valhalla1.png" width="32%" />
+  <img src="https://kennardwang.github.io/ImageSource/Girls-Frontline-Valhalla-Bartender/Valhalla1.png" width="32%" />
   &nbsp;
-  <img src="https://github.com/KennardWang/ImageSource/blob/master/Girls-Frontline-Valhalla-Bartender/Valhalla2.png" width="32%" />
+  <img src="https://kennardwang.github.io/ImageSource/Girls-Frontline-Valhalla-Bartender/Valhalla2.png" width="32%" />
 </div>
 
 <br>
