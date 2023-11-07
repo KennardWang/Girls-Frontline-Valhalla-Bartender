@@ -24,11 +24,11 @@
 <br>
 
 <div align=center>
-  <img src="https://github.com/KennardWang/Image-Source/blob/main/Girls-Frontline-Valhalla-Bartender/ValhallaStart.png" width="32%" />
+  <img src="https://kennardwang.github.io/Image-Source/Girls-Frontline-Valhalla-Bartender/ValhallaStart.png" width="32%" />
   &nbsp;
-  <img src="https://github.com/KennardWang/Image-Source/blob/main/Girls-Frontline-Valhalla-Bartender/Valhalla1.png" width="32%" />
+  <img src="https://kennardwang.github.io/Image-Source/Girls-Frontline-Valhalla-Bartender/Valhalla1.png" width="32%" />
   &nbsp;
-  <img src="https://github.com/KennardWang/Image-Source/blob/main/Girls-Frontline-Valhalla-Bartender/Valhalla2.png" width="32%" />
+  <img src="https://kennardwang.github.io/Image-Source/Girls-Frontline-Valhalla-Bartender/Valhalla2.png" width="32%" />
 </div>
 
 <br>
@@ -81,23 +81,23 @@ The project is a custom 2D game with an original storyline, which is a practice 
 
 <br>
 <div align=center>
-  <img src="https://github.com/KennardWang/Image-Source/blob/main/Girls-Frontline-Valhalla-Bartender/ValhallaTutorial0.png" width="85%" />
+  <img src="https://kennardwang.github.io/Image-Source/Girls-Frontline-Valhalla-Bartender/ValhallaTutorial0.png" width="85%" />
 </div>
 
 4. Test the game from the first scene **Scene0-Start**.
 
 <br>
 <div align=center>
-  <img src="https://github.com/KennardWang/Image-Source/blob/main/Girls-Frontline-Valhalla-Bartender/ValhallaTutorial1.png" width="85%" />
+  <img src="https://kennardwang.github.io/Image-Source/Girls-Frontline-Valhalla-Bartender/ValhallaTutorial1.png" width="85%" />
 </div>
 
 5. Finally, export the project as an executable file.  
 
 <br>
 <div align=center>
-  <img src="https://github.com/KennardWang/Image-Source/blob/main/Girls-Frontline-Valhalla-Bartender/ValhallaTutorial2.png" width="30%" />
+  <img src="https://kennardwang.github.io/Image-Source/Girls-Frontline-Valhalla-Bartender/ValhallaTutorial2.png" width="30%" />
   &nbsp;
-  <img src="https://github.com/KennardWang/Image-Source/blob/main/Girls-Frontline-Valhalla-Bartender/ValhallaTutorial3.png" width="46%" />
+  <img src="https://kennardwang.github.io/Image-Source/Girls-Frontline-Valhalla-Bartender/ValhallaTutorial3.png" width="46%" />
 </div>
 
 
